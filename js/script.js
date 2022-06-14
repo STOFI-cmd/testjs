@@ -17,4 +17,3 @@ personalMovieDB.movies[c] = d;
 
 console.log(personalMovieDB.count);
 console.log(personalMovieDB.movies);
-console.log("done");
